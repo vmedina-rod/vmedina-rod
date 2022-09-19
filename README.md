@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I'm a bit geek🖖**
 
+<a href="https://app.daily.dev/medivec"><img src="https://github.com/vmedina-rod/vmedina-rod/blob/master/devcard.svg" width="400" alt="Vicente Medina Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/medivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/sabesansathananthan/sabesansathananthan/master/SocialLogo/Twitter.png" alt="medivec" height="30" width="40" /></a>
