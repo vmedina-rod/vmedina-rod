@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vicente Medina</h1>
 <h3 align="center">A passionate WordPress developer from Barcelona</h3>
 
+<a href="https://app.daily.dev/medivec"><img src="https://github.com/vmedina-rod/vmedina-rod/blob/master/devcard.svg" align="right" width="400" alt="Vicente Medina Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medivec&label=Profile%20views&color=0e75b6&style=flat" alt="medivec" /> </p>
 
 - 👨‍💻 All of my projects are available at [http://medinarodriguez.com/](http://medinarodriguez.com/)
@@ -8,8 +10,6 @@
 - 💬 Ask me about **WordPress**
 
 - ⚡ Fun fact **I'm a bit geek🖖**
-
-<a href="https://app.daily.dev/medivec"><img src="https://github.com/vmedina-rod/vmedina-rod/blob/main/devcard.svg" width="400" alt="Vicente Medina Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
